@@ -10,7 +10,7 @@ This repo is part study guide, part grinding, and part brain dump for all things
 
 ```
 leetcode-solutions/
-├── 0001-two-sum/
+├── 1. Two Sum/
 │ ├── cpp/
 │ │ └── solution.cpp
 │ ├── python/
