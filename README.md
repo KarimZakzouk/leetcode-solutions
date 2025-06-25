@@ -20,7 +20,7 @@ leetcode-solutions/
 ```
 
 ## 🚀 Goal
-- IDK geting hired hopefully
+- IDK getting hired hopefully
 
 
 ## 📖 How to Read
