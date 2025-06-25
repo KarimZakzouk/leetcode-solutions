@@ -10,7 +10,7 @@ This repo is part study guide, part grinding, and part brain dump for all things
 
 ```
 leetcode-solutions/
-├── 0001-two-sum/
+├── 1. Two Sum/
 │ ├── cpp/
 │ │ └── solution.cpp
 │ ├── python/
@@ -20,7 +20,7 @@ leetcode-solutions/
 ```
 
 ## 🚀 Goal
-- IDK geting hired hopefully
+- IDK getting hired hopefully
 
 
 ## 📖 How to Read
@@ -28,7 +28,7 @@ leetcode-solutions/
 Each solution typically includes:
 - ✅ Clean code  
 - ✅ Descriptive variable names  
-- ✅ Probably omments explaining the logic (if not obvious)
+- ✅ Probably comments explaining the logic (if not obvious)
 - 🚧 Some trash solutions may not be optimal yet
 
 ## 🧠 Tip of the Day
