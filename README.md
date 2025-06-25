@@ -28,7 +28,7 @@ leetcode-solutions/
 Each solution typically includes:
 - ✅ Clean code  
 - ✅ Descriptive variable names  
-- ✅ Probably omments explaining the logic (if not obvious)
+- ✅ Probably comments explaining the logic (if not obvious)
 - 🚧 Some trash solutions may not be optimal yet
 
 ## 🧠 Tip of the Day
