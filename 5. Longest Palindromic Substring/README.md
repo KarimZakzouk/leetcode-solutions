@@ -17,3 +17,4 @@ This is done by expanding outward from the center while the characters on both s
 - Returns the longest match found after scanning the entire string.
 - Time complexity is **O(n²)** due to sorting.  
 - Space complexity is **O(1)** for the merged array.  
+- C++ s[i] = Java s.charAt(i)
